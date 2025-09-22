@@ -7,7 +7,7 @@ Who Am I?
 ---
 
 📫 Find Me  
-- 🔗 **LeetCode** at [Abhinav_mahato4](https://leetcode.com/u/nsU2NDW9KM/)  
-- 💼 **LinkedIn** at [Abhinav kumar Mahato](www.linkedin.com/in/dhriti-priya-39ba47323)   
+- 🔗 **LeetCode** at [Dhriti_Priya](https://leetcode.com/u/nsU2NDW9KM/)  
+- 💼 **LinkedIn** at [Dhriti_Priya](www.linkedin.com/in/dhriti-priya-39ba47323)   
 - 📧 **Mail me** at: dhritipriya10@gmail.com  
 
