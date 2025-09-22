@@ -8,6 +8,6 @@ Who Am I?
 
 📫 Find Me  
 - 🔗 **LeetCode** at [Dhriti_Priya](https://leetcode.com/u/nsU2NDW9KM/)  
-- 💼 **LinkedIn** at [Dhriti_Priya](www.linkedin.com/in/dhriti-priya-39ba47323)   
+- 💼 **LinkedIn** at [Dhriti_Priya](https://www.linkedin.com/in/dhriti-priya-39ba47323/)   
 - 📧 **Mail me** at: dhritipriya10@gmail.com  
 
